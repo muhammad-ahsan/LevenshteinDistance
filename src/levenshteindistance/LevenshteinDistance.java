@@ -9,7 +9,7 @@ package levenshteindistance;
 
 /**
  *
- * @author M Ahsan
+ * @author Ahsan
  */
 public class LevenshteinDistance {
 
